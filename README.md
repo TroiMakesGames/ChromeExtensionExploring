@@ -6,3 +6,6 @@ It's a simple extension with a popup menu with an input field to add a keyword, 
 
 
 I also made a quick test website and a quick discord bot to test different conditions (both included in the source code)
+
+
+And yes this project is like 80% vibe-coded because it was late and i was just doing it for a friend as a quick side project
